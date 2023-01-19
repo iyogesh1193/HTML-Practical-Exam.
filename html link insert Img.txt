@@ -1,0 +1,13 @@
+<html>
+  <head>
+    
+   <style>
+     body{
+      background: url("myImage.jpg");
+     }
+   </style>
+
+  </head>    
+  <body>
+  </body>
+</html>
